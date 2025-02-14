@@ -9,6 +9,6 @@ Instructions:
 
 HuggingFace model url: https://huggingface.co/jk23541/qwem7b_4bit_s1
 
-Training details:
-Trained on one A40 GPU (48 GB) hosted from vast.ai. It's extremely easy to use.
+Training details: Trained on one A40 GPU (48 GB) hosted from vast.ai. It's extremely easy to use.
+
 Cost: Less than $5!
